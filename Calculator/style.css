@@ -1,0 +1,16 @@
+#results{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: linear-gradient(to bottom right, #33475b, #00cc8f98, #FF77CC, rgb(255, 122, 89));
+
+    
+}
+.result{
+    font-size: 30px;
+    width: 13%;
+    border: 2px solid black;
+    align-items: center;
+    text-align: center;
+}
